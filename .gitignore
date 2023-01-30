@@ -163,8 +163,4 @@ cython_debug/
 ./src/configuration.py
 .back/
 .back
-
-
-
-
-
+service/
